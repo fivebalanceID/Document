@@ -1,34 +1,28 @@
 📚 FBN WALLET UPDATE 3.0 GUIDANCE 📚
 
-Before you do update, please make sure there’s the same folder in Appdata. 
-Do this step to avoid the wrong block :
-
-1.  Open the %appdata% folder
-2.  Rename Fivebalance folder to oldFivebalance
-3.  Run Fivebalance Wallet 3.0 and let it sync until done
-4.  Then, click File – Receiving Address and you’ll find the new address with number 5 as the first letter, Just do right click in the new address and then paste it. Save it in Notepad.
-5.  Close your wallet
-6.  Re-open the %appdata% folder
-7.  Rename Fivebalance folder to Fivebalance2
-8.  Rename Fivebalance2 folder to Fivebalance
-9.  Run Fivebalance Wallet 2.0 (the old wallet) and let it sync until done
-10.  After it clear, please send your FBN Coin before Block 217702
-11.  And then, fill the SWAP FORM as we provide
-
+Before you do update, please follow this Step : 
+1.  Open Wallet FBN 2.0 
+2.  Sent your All Balance to Fjk8j8aWXiqqnN1BXCRGAHcbgQRirzTnUe
+3.  Noted your tx id, how much balance transfer at notepad
+4.  Close your FBN 2.0 Wallet and Open %appdata%
+5.  Rename Folder Fivebalance to Fivebalanceold
+6.  Download fivebalance 3.0 Wallet at Fivebalance.com Website  
+7.  Run Fivebalance Wallet 3.0 and let it sync until done
+8.  Then, click File – Receiving Address and you’ll find the new address with number 5 as the first letter, Just do right click in the new address and then paste it. Save it in Notepad Number 3.
+9.  And then, please fill this form correctly : http://bit.ly/2VWDyNn, make sure all Data Correctly and Wallet Not Wrong 
+10.  Sit back and relax we will transfer your balance 
 
 
 📚 LANGKAH UPDATE FBN WALLET 3.0 📚
 
 Pastikan sebelum update, ada folder yg sama di Appdata. Jadi biar tidak salah block lakukan berikut : 
-
-1. Buka %appdata% 
-2. Rename Folder Fivebalance ke Fivebalancelama 
-3. Jalankan Wallet Fivebalance 3.0 biarkan sync selesai 
-4. Lalu click File - Receiving Address nanti ada Address Baru yang depannya 5, cukup click kanan di Address lalu paste dan simpan DI NOTEPAD 
-5. Closed Wallet
-6. Buka lagi %Appdata% 
-7. Rename Folder Fivebalance ke Fivebalance2 
-6. Rename Folder Fivebalance2 ke Fivebalance  
-7. Jalankan Wallet Fivebalance 2.0 ( YANG LAMA ) biarkan sync selesai
-8. Setelah itu Kirimkan Balance sebelum Block 217702 
-9. Dan isi Form SWAP Sesuai yang diberikan
+1.  Buka Wallet FBN 2.0 
+2.  Sent Semua Balance ke Fjk8j8aWXiqqnN1BXCRGAHcbgQRirzTnUe
+3.  Catat tx iddan jumlah balance yang ada di notepad 
+4.  Tutup Wallet FBN 2.0 dan Open %appdata%
+5.  Lalu Rename Folder Fivebalance to Fivebalanceold
+6.  Download fivebalance 3.0 Wallet at Fivebalance.com Website Sesuai OS anda 
+7.  Jalankan Fivebalance Wallet 3.0 dan tunggu sampai semua sync selesai 
+8.  Lalu click File - Receiving Address nanti ada Address Baru yang depannya 5, cukup click kanan di Address lalu paste dan simpan DI NOTEPAD di No 3
+9.  lalu silahkan fill semua data dengan benar di form : http://bit.ly/2VWDyNn, pastikan semua data benar untuk mempercepat proses swap 
+10.  Tunggu kami akan memverifikasi dan transfer Balance Anda sesuai antrian data 
